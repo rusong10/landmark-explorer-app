@@ -18,20 +18,20 @@ Landmark Explorer is a SwiftUI-based application that lets you explore iconic la
     - **iPhone**: Portrait only
     - **iPad**: Supports all orientations
 
-## Screenshots / Video
+## Screenshots
 
-<p> <strong>iPhone Screens</strong> </p> 
+<p> <strong>iPhone Screens (Light Mode)</strong> </p> 
 <p> 
   <img src="https://github.com/user-attachments/assets/3bddefb5-8b3f-4d01-92df-8c95c5289b56" width="25%" alt="iPhone Light Mode (Home)"> 
   <img src="https://github.com/user-attachments/assets/bad44ca8-61af-4f63-b682-64c87b1c27f5" width="25%" alt="iPhone Light Mode (Menu)"> 
   <img src="https://github.com/user-attachments/assets/78c86919-638f-44e9-95d5-5d4e75099e62" width="25%" alt="iPhone Light Mode (Detail)"> 
 </p> 
 
-<p> <strong>iPad Screens</strong> </p> 
+<p> <strong>iPad Screens (Dark Mode)</strong> </p> 
 <p align="space-around"> 
-  <img src="https://github.com/user-attachments/assets/4cbce322-5b8a-4c06-803c-e17358c817f2" width="33%" alt="iPad Dark Mode (Home"> 
-  <img src="https://github.com/user-attachments/assets/c5d0ed92-4e62-4319-8b35-f0b84917db1b" width="33%" alt="iPad Dark Mode (Menu)"> 
-  <img src="https://github.com/user-attachments/assets/f63fa71e-421c-4dde-8317-00a8329bf073" width="33%" alt="iPad Dark Mode (Detail)"> 
+  <img src="https://github.com/user-attachments/assets/4cbce322-5b8a-4c06-803c-e17358c817f2" width="40%" alt="iPad Dark Mode (Home"> 
+  <img src="https://github.com/user-attachments/assets/c5d0ed92-4e62-4319-8b35-f0b84917db1b" width="40%" alt="iPad Dark Mode (Menu)"> 
+  <img src="https://github.com/user-attachments/assets/f63fa71e-421c-4dde-8317-00a8329bf073" width="40%" alt="iPad Dark Mode (Detail)"> 
 </p> 
 
 ## Getting Started
